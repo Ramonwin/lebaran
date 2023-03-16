@@ -9,7 +9,7 @@ Iya.addEventListener("click", function () {
     if (Iya.value == 1) {
         Text.classList.remove('text-animate');
         void Text.offsetWidth; 
-        Text.innerHTML = "Hallo, Kami dari PT Ramonwin Teknik Solusindo";
+        Text.innerHTML = "Hallo, Kami dari PT Mitha Bangkit Berkarya";
         Text.classList.add('text-animate');
     }else if (Iya.value == 2) {
         Text.classList.remove('text-animate');
