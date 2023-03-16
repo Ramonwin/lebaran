@@ -9,7 +9,7 @@ Iya.addEventListener("click", function () {
     if (Iya.value == 1) {
         Text.classList.remove('text-animate');
         void Text.offsetWidth; 
-        Text.innerHTML = "Hallo, Kami dari ramonwin.com";
+        Text.innerHTML = "Hallo, Kami dari PT Ramonwin Teknik Solusindo";
         Text.classList.add('text-animate');
     }else if (Iya.value == 2) {
         Text.classList.remove('text-animate');
@@ -47,7 +47,7 @@ Iya.addEventListener("click", function () {
         Image.setAttribute("src", "https://c.tenor.com/57JSPYRo0k8AAAAj/lebaran-selamat-lebaran.gif");
         Text.classList.remove('text-animate');
         void Text.offsetWidth; 
-        Text.innerHTML = "Selamat hari raya Idul Fitri 1443 H --ramonwin--";
+        Text.innerHTML = "Selamat hari raya Idul Fitri 1444 H --ramonwin--";
         Text.classList.add('text-animate');
         Iya.remove();
     }
